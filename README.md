@@ -30,3 +30,8 @@ Indian citizenship.
 3. Run:
 
 python voting_eligibility_system.py
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+*GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+*Role:* Python Mentor / Technical Guide
